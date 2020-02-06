@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitWebServiceDemo2</string>
+    <string name="activity_posts_title">Posts</string>
+    <string name="activity_albums_title">Albums</string>
+</resources>
